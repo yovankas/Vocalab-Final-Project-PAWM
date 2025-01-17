@@ -16,6 +16,6 @@ To access the live service, please visit the following link:
    ```bash
    git clone https://github.com/yovankas/Vocalab-Final-Project-PAWM.git
 
-## Kelompok K-02 Pengembangan Aplikasi Web dan Mobile
+## Kelompok 17 K-02 Pengembangan Aplikasi Web dan Mobile
 1. Tamara Mayranda Lubis | 18222026
 2. Yovanka Sandrina Maharaja | 18222094
